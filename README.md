@@ -70,7 +70,8 @@ To study an 660nm & 950nm Fiber Analog Link and to study the frequency response 
 ## TABULATION  
 *Transmission through Analog Link*
 
-![WhatsApp Image 2025-11-15 at 23 46 11_0c2e0540](https://github.com/user-attachments/assets/7d7b86a3-8f9b-4256-bd6d-36351ab2b22d)
+<img width="821" height="1280" alt="image" src="https://github.com/user-attachments/assets/4b2bddef-aa55-4ae9-87e9-55098b42a07b" />
+
 
 
 ---
